@@ -3,7 +3,7 @@
 ## Objective
 
 The goal was to find variables that were strongly correlated with the target variable, which was the time taken to flower. Various methods were tried, 
-including Pearson's and Spearman's correlation, Lasso, Ridge, and Elastic Net regression, linear regression, and random forest regression. 
+including Pearson's and Spearman's correlation, Lasso, Ridge, and linear regression, and random forest regression. 
 
 ## Dataset
 
